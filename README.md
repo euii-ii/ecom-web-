@@ -12,8 +12,6 @@ Responsive Design: Fully responsive layout to ensure compatibility with all devi
 
 Customizable Components: Easy to tweak styles and scripts for personalization.
 
-Modern UI/UX: Designed with user experience in mind.
-
 Demo
 Check out the live demo: [Insert Live Link Here]  https://ecom-web-three.vercel.app/
 
