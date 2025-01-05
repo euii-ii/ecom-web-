@@ -13,7 +13,7 @@ Responsive Design: Fully responsive layout to ensure compatibility with all devi
 Customizable Components: Easy to tweak styles and scripts for personalization.
 
 Demo
-Check out the live demo: [Insert Live Link Here]  https://ecom-web-three.vercel.app/
+Check out the live demo: https://ecom-web-three.vercel.app/
 
 Technologies Used
 
