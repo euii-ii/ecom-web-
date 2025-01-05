@@ -15,7 +15,7 @@ Customizable Components: Easy to tweak styles and scripts for personalization.
 Modern UI/UX: Designed with user experience in mind.
 
 Demo
-Check out the live demo: [Insert Live Link Here]
+Check out the live demo: [Insert Live Link Here]  https://ecom-web-three.vercel.app/
 
 Technologies Used
 
@@ -29,7 +29,7 @@ Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/your-username/3d-website.git  
+git clone https://github.com/euii-ii/ecom-web-.git
 Navigate to the Project Directory
 
 bash
